@@ -5,7 +5,8 @@
         versionCode="10"
         version   = "1.0.0">
 
-        <name>PhoneGap ChildBrowser Plugin Example</name>
+		<plugin name="ChildBrowser" value="com.phonegap.plugins.childBrowser.ChildBrowser"/> 
+		<name>PhoneGap ChildBrowser Plugin Example</name>
 
         <description>
             A starter project for the ChildBrowser plugin
